@@ -8,7 +8,7 @@
 
 ## 获取及提交lab
 
-**获取**：通过 `https://github.com/FDU-C-2020/lab1`，获取（建议通过Download ZIP方式下载）。
+**获取**：通过 `https://github.com/C-FUDAN-2020/lab1`，获取（建议通过Download ZIP方式下载）。
 
 **提交物**：将你完成目标3的步骤、最终的效果写个简要的文档（最好有截图说明，格式为word或者pdf，页数不超过5页），作为Lab1的提交物。
 
